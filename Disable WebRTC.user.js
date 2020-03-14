@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Disable WebRTC
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/ZCY01/disable-webrtc-js
 // @version      1.0
 // @description  Disable WebRTC for all web site
 // @author       292695903@qq.com
