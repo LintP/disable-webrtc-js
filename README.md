@@ -1,2 +1,2 @@
 ## Disable WebRTC
-Script that disables WebRTC for all browsers.
+Script that disables WebRTC for Google-Chrome.
