@@ -5,9 +5,9 @@
 // @description  Disable WebRTC for all web site
 // @author       292695903@qq.com
 // @include      http://*
-// @include		 https://*
+// @include      https://*
 // @grant        none
-// @run-at		 document-start
+// @run-at       document-start
 // ==/UserScript==
 
 (function() {
